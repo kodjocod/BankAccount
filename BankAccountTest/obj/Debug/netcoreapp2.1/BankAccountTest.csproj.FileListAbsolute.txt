@@ -1,0 +1,17 @@
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\BankAccountTest.deps.json
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\BankAccountTest.runtimeconfig.json
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\BankAccountTest.runtimeconfig.dev.json
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\BankAccountTest.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\obj\Debug\netcoreapp2.1\BankAccountTest.csprojAssemblyReference.cache
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\obj\Debug\netcoreapp2.1\BankAccountTest.csproj.CoreCompileInputs.cache
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\obj\Debug\netcoreapp2.1\BankAccountTest.AssemblyInfoInputs.cache
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\obj\Debug\netcoreapp2.1\BankAccountTest.AssemblyInfo.cs
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\BankAccountTest.pdb
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\obj\Debug\netcoreapp2.1\BankAccountTest.csproj.CopyComplete
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\obj\Debug\netcoreapp2.1\BankAccountTest.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccountTest\obj\Debug\netcoreapp2.1\BankAccountTest.pdb

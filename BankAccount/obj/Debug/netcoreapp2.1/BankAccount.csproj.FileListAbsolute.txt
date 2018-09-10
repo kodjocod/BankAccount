@@ -1,0 +1,9 @@
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\lenovo_2\Documents\Kata_promo_6\BankAccountKata2\BankAccount\obj\Debug\netcoreapp2.1\BankAccount.pdb
